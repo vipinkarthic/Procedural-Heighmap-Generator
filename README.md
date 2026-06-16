@@ -1,3 +1,8 @@
+A standalone, config controlled procedural world generator that produces realistic terrain rivers, biomes and enviroments, Completely configurable through jsons and outputs PPM debug images at every stage which is then used to map the pixel values of white to black into different height ranges
+
+The configs for biomes and rivers can be directly adjusted through the code itself at ErosionParams.h and BiomeClassifiers.h
+
+
 ## Dependencies
 ### Required Dependencies
 - **CMake** 3.15 or higher
